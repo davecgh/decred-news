@@ -1,6 +1,6 @@
 # Mirrors
 
-Here is the list of all known translations and their mirrors.
+Here is a list of all known Decred Journal translations and their mirrors.
 
 ## 2021
 
