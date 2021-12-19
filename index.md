@@ -75,3 +75,4 @@ July|[English](journal/201807.md), [Vietnamese](https://github.com/raedahgroup/d
 June|[English](journal/201806.md), [Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2018-06.md)
 May|[English](journal/201805.md), [Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2018-05.md)
 April|[English](journal/201804.md), [Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2018-04.md)
+
